@@ -17,7 +17,7 @@ const LeftPanel = () => {
                 priority
                 loading="eager"
                 alt="avatar"
-                src="/pc.PNG"
+                src="https://elefante.is-pretty.cool/sRkS7mF.png"
                 width={220}
                 height={220}
             />
