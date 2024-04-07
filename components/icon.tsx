@@ -109,6 +109,39 @@ const Icons: {
             </g>
         </svg>
     ),
+    x: (
+        <svg
+            width="26"
+            height="26"
+            viewBox="0 0 512 512"
+            fill="none"
+            xmlns="http://www.w3.org/2000/svg"
+        >
+            <g id="fa6-brands:x-twitter">
+                <path
+                    id="Vector"
+                    d="M389.2 48h70.6L305.6 224.2L487 464H345L233.7 318.6L106.5 464H35.8l164.9-188.5L26.8 48h145.6l100.5 132.9zm-24.8 373.8h39.1L151.1 88h-42z"
+                    fill="white"
+                />
+            </g>
+        </svg>
+    ),
+    twitch: (
+        <svg
+            width="26"
+            height="26"
+            viewBox="0 0 512 512"
+            fill="none"
+            xmlns="http://www.w3.org/2000/svg"
+        >
+            <g id="fa6-brands:twitch">
+                <path
+                    id="Vector"
+                    d="M391.17 103.47h-38.63v109.7h38.63ZM285 103h-38.63v109.75H285ZM120.83 0L24.31 91.42v329.16h115.83V512l96.53-91.42h77.25L487.69 256V0Zm328.24 237.75l-77.22 73.12h-77.24l-67.6 64v-64h-86.87V36.58h308.93Z"                    fill="white"
+                />
+            </g>
+        </svg>
+    ),
     github: (
         <svg
             width="25"
