@@ -440,7 +440,7 @@ export const siteConfig = {
     location: "Turkey",
     locationLink:
         "#",
-    email: "me@elefante.wtf",
+    email: "erencontact23@gmail.com",
     items: GridItems,
     itemsLower: GridItemsLower,
 } as const;
