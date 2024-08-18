@@ -130,7 +130,7 @@ const GridItems: GridItemInterface[] = [
     //     icon: "resume",
     //     username: "",
     //     buttonTitle: "Download",
-    //     buttonLink: "https://elefante.wtf/",
+    //     buttonLink: "https://eren.legal/",
     //     buttonSecondaryText: "",
     //     color: "#070707",
     //     description:
@@ -414,7 +414,7 @@ const GridItemsLower: GridItemInterface[] = [
     //     icon: "github",
     //     stars: 1,
     //     color: "#070707",
-    //     buttonLink: "https://github.com/elefxnte/elefante.wtf",
+    //     buttonLink: "https://github.com/elefxnte/eren.legal",
     // }
 
     // {
