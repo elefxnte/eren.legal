@@ -431,8 +431,9 @@ const GridItemsLower: GridItemInterface[] = [
 export const siteConfig = {
     creator: "Eren \"Elefante\"",
     title: "",
-    bio: "Front-end Developer",
-    location: "Turkey",
+    bio: 'Front-end Developer',
+    bio2: 'Web Security & InfoSec Researcher',
+    location: "Istanbul, Turkey",
     locationLink:
         "#",
     email: "me@eren.legal",

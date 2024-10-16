@@ -32,6 +32,9 @@ const LeftPanel = () => {
             <p className="text-xl font-light text-neutral-500 xl:text-2xl font-light text-neutral-500 mt-2">
                 {siteConfig.bio}
             </p>
+            <p className="text-md font-light text-neutral-500 xl:text-xl font-light text-neutral-500">
+                {siteConfig.bio2}
+            </p>
 
             <p className="w-11/12 text-md font-light text-neutral-500 xl:w-11/12 text-sm font-light text-neutral-500 mt-2">
                 Find all of my useful Links and Get to know more about my projects & experience.
