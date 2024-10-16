@@ -97,7 +97,7 @@ const GridItems: GridItemInterface[] = [
         color: "#7851a9",
     },
     {
-        layout: "2x2",
+        layout: "1x2",
         type: "social",
         title: "Github",
         icon: "github",
@@ -105,24 +105,19 @@ const GridItems: GridItemInterface[] = [
         buttonTitle: "Follow",
         buttonSecondaryText: "",
         buttonLink: "https://github.com/elefxnte",
-        color: "#070707",
-        description:
-            "Click on me to view my open-source projects!",
+        color: "#070707"
     },
 
-    // {
-    //     layout: "2x2",
-    //     type: "social",
-    //     title: "LinkedIn",
-    //     icon: "linkedin",
-    //     username: "3ren",
-    //     description:
-    //         "Connect with me on LinkedIn to explore my professional journey and stay updated on my latest achievements and projects showcased in my portfolio website.",
-    //     color: "#0077b5",
-    //     buttonTitle: "Connect With me!",
-    //     buttonLink: "https://www.linkedin.com/in/3ren/",
-    //     // buttonSecondaryText: "1.1K",
-    // },
+    {
+        layout: "1x2",
+        type: "social",
+        title: "HackerOne",
+        icon: "hackerone",
+        username: "ern",
+        color: "#070707",
+        buttonTitle: "Follow",
+        buttonLink: "https://hackerone.com/ern",
+    },
     // {
     //     layout: "1x2",
     //     type: "social",
@@ -440,7 +435,7 @@ export const siteConfig = {
     location: "Turkey",
     locationLink:
         "#",
-    email: "erencontact23@gmail.com",
+    email: "me@eren.legal",
     items: GridItems,
     itemsLower: GridItemsLower,
 } as const;
