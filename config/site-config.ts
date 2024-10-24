@@ -107,7 +107,6 @@ const GridItems: GridItemInterface[] = [
         buttonLink: "https://github.com/elefxnte",
         color: "#070707"
     },
-
     {
         layout: "1x2",
         type: "social",
